@@ -1,0 +1,17 @@
+# Runtime state and potentially private data
+config.json
+codesnap.log
+debug/
+*.log
+
+# Build / IDE
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
